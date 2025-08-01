@@ -1,0 +1,58 @@
+Device setup complete: cuda:0
+Available GPUs: 2
+Map:   0%|          | 0/480 [00:00<?, ? examples/s]Map: 100%|██████████| 480/480 [00:00<00:00, 1607.36 examples/s]Map: 100%|██████████| 480/480 [00:00<00:00, 1568.07 examples/s]
+Map:   0%|          | 0/206 [00:00<?, ? examples/s]Map: 100%|██████████| 206/206 [00:00<00:00, 1752.21 examples/s]Map: 100%|██████████| 206/206 [00:00<00:00, 1700.74 examples/s]
+Client 1 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 1 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 1 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 1 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/427 [00:00<?, ? examples/s]Map: 100%|██████████| 427/427 [00:00<00:00, 1792.07 examples/s]Map: 100%|██████████| 427/427 [00:00<00:00, 1743.96 examples/s]
+Map:   0%|          | 0/183 [00:00<?, ? examples/s]Map: 100%|██████████| 183/183 [00:00<00:00, 1808.16 examples/s]
+Client 2 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 2 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 2 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 2 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/1196 [00:00<?, ? examples/s]Map:  84%|████████▎ | 1000/1196 [00:00<00:00, 1059.85 examples/s]Map: 100%|██████████| 1196/1196 [00:01<00:00, 1027.77 examples/s]Map: 100%|██████████| 1196/1196 [00:01<00:00, 1032.25 examples/s]
+Map:   0%|          | 0/513 [00:00<?, ? examples/s]Map: 100%|██████████| 513/513 [00:00<00:00, 1062.33 examples/s]Map: 100%|██████████| 513/513 [00:00<00:00, 1038.22 examples/s]
+Client 3 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 3 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 3 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 3 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/700 [00:00<?, ? examples/s]Map: 100%|██████████| 700/700 [00:00<00:00, 1573.02 examples/s]Map: 100%|██████████| 700/700 [00:00<00:00, 1536.71 examples/s]
+Map:   0%|          | 0/300 [00:00<?, ? examples/s]Map: 100%|██████████| 300/300 [00:00<00:00, 1598.17 examples/s]Map: 100%|██████████| 300/300 [00:00<00:00, 1559.58 examples/s]
+Client 4 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 4 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 4 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 4 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/611 [00:00<?, ? examples/s]Map: 100%|██████████| 611/611 [00:00<00:00, 1861.77 examples/s]Map: 100%|██████████| 611/611 [00:00<00:00, 1811.77 examples/s]
+Map:   0%|          | 0/263 [00:00<?, ? examples/s]Map: 100%|██████████| 263/263 [00:00<00:00, 1980.77 examples/s]Map: 100%|██████████| 263/263 [00:00<00:00, 1920.70 examples/s]
+Client 5 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 5 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 5 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 5 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/480 [00:00<?, ? examples/s]Map: 100%|██████████| 480/480 [00:00<00:00, 1819.80 examples/s]Map: 100%|██████████| 480/480 [00:00<00:00, 1772.98 examples/s]
+Map:   0%|          | 0/206 [00:00<?, ? examples/s]Map: 100%|██████████| 206/206 [00:00<00:00, 1787.09 examples/s]Map: 100%|██████████| 206/206 [00:00<00:00, 1734.40 examples/s]
+Client 6 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 6 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 6 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 6 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/427 [00:00<?, ? examples/s]Map: 100%|██████████| 427/427 [00:00<00:00, 1903.76 examples/s]Map: 100%|██████████| 427/427 [00:00<00:00, 1852.00 examples/s]
+Map:   0%|          | 0/183 [00:00<?, ? examples/s]Map: 100%|██████████| 183/183 [00:00<00:00, 1841.04 examples/s]
+Client 7 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 7 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 7 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 7 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/1196 [00:00<?, ? examples/s]Map:  84%|████████▎ | 1000/1196 [00:00<00:00, 1073.02 examples/s]Map: 100%|██████████| 1196/1196 [00:01<00:00, 1057.64 examples/s]Map: 100%|██████████| 1196/1196 [00:01<00:00, 1058.04 examples/s]
+Map:   0%|          | 0/513 [00:00<?, ? examples/s]Map: 100%|██████████| 513/513 [00:00<00:00, 1075.41 examples/s]Map: 100%|██████████| 513/513 [00:00<00:00, 1058.07 examples/s]
+Client 8 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 8 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 8 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 8 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/700 [00:00<?, ? examples/s]Map: 100%|██████████| 700/700 [00:00<00:00, 1556.54 examples/s]Map: 100%|██████████| 700/700 [00:00<00:00, 1522.39 examples/s]
+Map:   0%|          | 0/300 [00:00<?, ? examples/s]Map: 100%|██████████| 300/300 [00:00<00:00, 1643.34 examples/s]Map: 100%|██████████| 300/300 [00:00<00:00, 1598.16 examples/s]
+Client 9 - Train columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 9 - Test columns before removing: ['question', 'subject', 'choices', 'answer', 'input_ids', 'attention_mask', 'labels']
+Client 9 - Train columns after removing: ['input_ids', 'attention_mask', 'labels']
+Client 9 - Test columns after removing: ['input_ids', 'attention_mask', 'labels']
+Map:   0%|          | 0/611 [00:00<?, ? examples/s]Map: 100%|██████████| 611/611 [00:00<00:00, 1890.92 examples/s]Map: 100%|██████████| 611/611 [00:00<00:00, 1842.28 examples/s]
+Map:   0%|          | 0/263 [00:00<?, ? examples/s]Map: 100%|██████████| 263/263 [00:00<00:00, 1950.44 examples/s]Map: 100%|██████████| 263/263 [00:00<00:00, 1893.19 examples/s]
